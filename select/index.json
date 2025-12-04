@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "できたらいいな",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2025-12-04T06:01:03.436125Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "できたらいいな (feat. 漢 a.k.a.GAMI)",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_できたらいいな_(feat._漢_a.k.a.GAMI)_ピーナッツくん.txt"
+    }
+  ]
+}
